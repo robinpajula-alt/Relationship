@@ -33,7 +33,6 @@ class Research:
         for child in children:
             print(f"John has a child called {child}")
 
-# Kasutus
 parent = Person('John')
 child1 = Person('Chris')
 child2 = Person('Matt')
